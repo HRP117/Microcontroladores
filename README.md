@@ -12,4 +12,4 @@
 
 ### Descripción
 
-    Ejercicios y Practicas
+    Ejercicios y Practicas en Arduino
